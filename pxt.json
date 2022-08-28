@@ -1,5 +1,5 @@
 {
-    "name": "RGB bit and DC motor",
+    "name": "RGB bit",
     "description": "",
     "dependencies": {
         "core": "*",
